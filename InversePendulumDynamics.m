@@ -1,3 +1,5 @@
+clear M m l g u_c
+
 syms x(t) theta(t)
 syms M m l g u_c u
 syms xdd thdd
