@@ -1,10 +1,10 @@
 clear M m l g u_c
 % Replace these with the real deal
-M = 1.0; % cart mass
-m = 0.5; % pole mass
-l = 0.5; % pole length
+M = 10.0; % cart mass
+m = 5; % pole mass
+l = 0.25; % pole length
 g = 9.81; % gravity
-u_c = 0.1; % damping/friction coefficient
+u_c = 0.35; % damping/friction coefficient
 
 zeta = 0.7; % Subject to change
 T_s = 2; % Subject to change
